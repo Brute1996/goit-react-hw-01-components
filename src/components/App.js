@@ -2,7 +2,7 @@ import user from './user.json'
 import data from './data.json'
 import friends from './friends.json'
 import transactions from './transactions.json'
-import { Profile, FriendList, Statistics, TransactionHistory } from './components/index'
+import { Profile, FriendList, Statistics, TransactionHistory } from './index'
 
 const App = () => {
   return (
